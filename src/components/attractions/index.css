@@ -1,0 +1,9 @@
+a {
+  color: black;
+  cursor: pointer;
+}
+
+.attr-list {
+  display: grid;
+  gap: 12px;
+}

@@ -1,0 +1,4 @@
+.additional__list {
+  display: grid;
+  gap: 12px;
+}

@@ -1,0 +1,30 @@
+.rewievBox {
+  padding: 24px;
+}
+
+.review__block {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.review__list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.reviewBlock {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.guestName {
+  font-weight: bold;
+}
+
+.review {
+  line-height: 1.5em;
+}

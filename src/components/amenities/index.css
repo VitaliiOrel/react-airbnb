@@ -1,0 +1,4 @@
+.amenities__list {
+  display: grid;
+  gap: 12px;
+}
